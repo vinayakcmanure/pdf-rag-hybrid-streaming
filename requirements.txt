@@ -8,5 +8,6 @@ pypdf
 python-dotenv
 rank_bm25
 sentence-transformers
-gradio
+gradio
 requests
+truststore

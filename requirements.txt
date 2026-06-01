@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+rank_bm25
+sentence-transformers
+gradio
+requests
